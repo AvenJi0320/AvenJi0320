@@ -18,10 +18,6 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Otakus0320/Otakus0320/main/assets/bar_graph.png)
-
-
- Last Updated on 13/03/2025 07:45:03 UTC
+ Last Updated on 13/03/2025 07:49:33 UTC
 <!--END_SECTION:waka-->
