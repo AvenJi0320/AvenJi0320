@@ -5,8 +5,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otakus0320&langs_count=10&theme=tokyonight&layout=compact" alt="Otakus0320 :: Top Langs" /></p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.9%20thousand%20lines%20of%20code-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -25,5 +23,5 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Otakus0320/Otakus0320/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2025 07:41:08 UTC
+ Last Updated on 13/03/2025 07:45:03 UTC
 <!--END_SECTION:waka-->
