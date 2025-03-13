@@ -23,4 +23,4 @@ jobs:
           SHOW_SHORT_INFO: "FALSE"
           SHOW_EDITORS: "FALSE"
           SHOW_TIMEZONE: "FALSE"
-          SHOW_TIMELINE: "FALSE"
+          SHOW_LOC_CHART: "FALSE"
