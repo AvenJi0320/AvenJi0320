@@ -5,6 +5,23 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otakus0320&langs_count=10&theme=tokyonight&layout=compact" alt="Otakus0320 :: Top Langs" /></p>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 13/03/2025 16:30:39 UTC
+```text
+💬 Programming Languages: 
+TypeScript               30 mins             ████████████████████████░   97.12 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+
+🐱‍💻 Projects: 
+React-Handbook           20 mins             ████████████████░░░░░░░░░   64.54 % 
+FullStackLearn           11 mins             █████████░░░░░░░░░░░░░░░░   35.46 % 
+
+💻 Operating System: 
+Mac                      31 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 13/03/2025 18:38:16 UTC
 <!--END_SECTION:waka-->
