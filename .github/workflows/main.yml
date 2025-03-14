@@ -2,8 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am CST (Beijing Time)
-    - cron: '0 16 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
