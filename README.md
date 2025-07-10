@@ -1,4 +1,4 @@
-<h1> Hi, I'm Otakus0320! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="cat"></h1>
+<h1> Hi, I'm Aven Ji! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="cat"></h1>
 
 <p align="center"><a href="https://wakatime.com/@044d69d0-1253-4f60-96b6-5d19a0f9dde5"><img src="https://wakatime.com/badge/user/044d69d0-1253-4f60-96b6-5d19a0f9dde5.svg" /></a></p>
 
