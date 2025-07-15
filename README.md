@@ -46,7 +46,7 @@
   </div>
 </div>
 
-<br/><br/>
+<br/>
 <hr/>
 
 <h3>⌛ Wake Time 💻</h3>
