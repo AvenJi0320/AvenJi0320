@@ -23,3 +23,4 @@ jobs:
           SHOW_EDITORS: "FALSE"
           SHOW_TIMEZONE: "FALSE"
           SHOW_LOC_CHART: "FALSE"
+          SHOW_PROJECTS: "FALSE"
