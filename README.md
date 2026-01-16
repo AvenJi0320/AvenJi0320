@@ -42,7 +42,6 @@
    <!-- 设计 / 文档 / 协作 -->
    <img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=white"/>
    <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-Sketch-FA6400?style=for-the-badge&logo=Sketch&logoColor=white"/>
   </div>
 </div>
 
