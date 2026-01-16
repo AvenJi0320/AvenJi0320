@@ -3,7 +3,7 @@
 <h3 align="center">Tech Stack & Tools I Use</h3>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvenJi0320&langs_count=10&theme=tokyonight&layout=compact" alt="AvenJi0320 :: Top Langs" />
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AvenJi0320&layout=compact&theme=github_dark" alt="AvenJi0320 :: Top Langs" />
   
   <div>
    <!-- 语言 / 编译 -->
