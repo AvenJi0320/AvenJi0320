@@ -3,7 +3,6 @@
 <h3 align="center">Tech Stack & Tools I Use</h3>
 
 <div>
-  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AvenJi0320&layout=compact&theme=github_dark" alt="AvenJi0320 :: Top Langs" />
   
   <div>
    <!-- 语言 / 编译 -->
@@ -47,6 +46,12 @@
 
 <br/>
 <hr/>
+
+<h3 align="center">Coding Activity</h3>
+
+<div align="center">
+  <img src="https://wakatime.com/share/@AvenJi0320/40de82e3-b6ce-49f4-9d99-05a0efbae391.svg"/>
+</div>
 
 <h3>⌛ Wake Time 💻</h3>
 <p align="center">
