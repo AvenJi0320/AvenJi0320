@@ -64,14 +64,12 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 19 mins        ███████████████████████░░   91.65 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/02/2026 18:38:46 UTC
+ Last Updated on 20/02/2026 21:19:18 UTC
 <!--END_SECTION:waka-->
