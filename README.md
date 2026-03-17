@@ -64,16 +64,16 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 10 mins       █████████████████░░░░░░░░   68.41 % 
-JavaScript               2 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Thrift                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               4 hrs 24 mins       ██████████████░░░░░░░░░░░   55.67 % 
+JavaScript               2 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.49 % 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      9 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      7 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/03/2026 18:54:41 UTC
+ Last Updated on 17/03/2026 21:32:28 UTC
 <!--END_SECTION:waka-->
