@@ -64,14 +64,12 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 25 mins       █████████████████████░░░░   84.36 % 
-JavaScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Thrift                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+TypeScript               1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/04/2026 18:38:58 UTC
+ Last Updated on 03/04/2026 21:28:08 UTC
 <!--END_SECTION:waka-->
