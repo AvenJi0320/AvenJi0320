@@ -64,16 +64,16 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 13 mins        █████████████░░░░░░░░░░░░   51.95 % 
-TypeScript               1 hr                ███████████░░░░░░░░░░░░░░   42.62 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Jupyter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   2 hrs 52 mins       ███████████████░░░░░░░░░░   59.29 % 
+TypeScript               1 hr                █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+PlantUML                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
 💻 Operating System: 
-Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2026 18:51:02 UTC
+ Last Updated on 06/04/2026 21:33:15 UTC
 <!--END_SECTION:waka-->
