@@ -60,6 +60,20 @@
   </a>
 </p>
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 01/06/2026 21:25:52 UTC
+```text
+💬 Programming Languages: 
+TypeScript               4 hrs 50 mins       ███████████████████░░░░░░   75.73 % 
+Python                   1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+
+💻 Operating System: 
+Mac                      6 hrs 23 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 02/06/2026 03:28:36 UTC
 <!--END_SECTION:waka-->
