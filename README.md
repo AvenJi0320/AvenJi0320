@@ -64,12 +64,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 28 mins             ███████████████████░░░░░░   75.64 % 
+Other                    6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      37 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/06/2026 17:12:47 UTC
+ Last Updated on 23/06/2026 19:53:36 UTC
 <!--END_SECTION:waka-->
