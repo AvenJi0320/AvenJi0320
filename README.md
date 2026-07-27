@@ -60,6 +60,8 @@
   </a>
 </p>
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-176%20hrs%2024%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -74,6 +76,29 @@ JSON                     15 mins             ░░░░░░░░░░░�
 Mac                      20 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 12:15:50 UTC
+```text
+⏱ AI Coding Time: 19 hrs 46 mins (96.81%)
+
+✍️ 1,547 lines written by AI, 36 lines written by hand (97.73% AI-written)
+
+🔤 825,857,068 Input Tokens, 4,377,880 Output Tokens
+
+💵 $1870.12 Estimated AI Cost This Week
+
+🧠 45 AI Sessions, 288 AI Prompts
+
+GPT                      2,122 lines         █████████████████████████   100.00 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.73% of written lines came from AI
+📚 Verbose Prompter — average 9,086 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 98.73% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 16:53:41 UTC
 <!--END_SECTION:waka-->
