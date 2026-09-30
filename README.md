@@ -66,38 +66,38 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 43 mins       ████████████░░░░░░░░░░░░░   49.31 % 
-Markdown                 3 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.25 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Less                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+TypeScript               2 hrs 48 mins       █████████████░░░░░░░░░░░░   53.42 % 
+Markdown                 1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   31.97 % 
+JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Less                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 💻 Operating System: 
-Mac                      7 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 27 mins (85.46%)
+⏱ AI Coding Time: 4 hrs 43 mins (90.03%)
 
-✍️ 1,094 lines written by AI, 100 lines written by hand (91.62% AI-written)
+✍️ 952 lines written by AI, 100 lines written by hand (90.49% AI-written)
 
-🔤 6,546,710 Input Tokens, 890,196 Output Tokens
+🔤 5,136,578 Input Tokens, 665,237 Output Tokens
 
-💵 $170.77 Estimated AI Cost This Week
+💵 $161.96 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 80 AI Prompts
+🧠 17 AI Sessions, 57 AI Prompts
 
-GPT                      1,328 lines         █████████████████████████   100.00 % 
+GPT                      1,186 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.62% of written lines came from AI
-📄 Detailed Prompter — average 1,072 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 10.33% of changed lines were hand-edited
+🤖 AI-Driven — 90.49% of written lines came from AI
+📄 Detailed Prompter — average 1,303 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 11.43% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 17:27:14 UTC
+ Last Updated on 30/09/2026 21:46:38 UTC
 <!--END_SECTION:waka-->
