@@ -66,38 +66,35 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               33 mins             █████████░░░░░░░░░░░░░░░░   36.32 % 
-JSON                     23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-Other                    17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Other                    14 mins             █████████████████░░░░░░░░   68.16 % 
+Bash                     6 mins              ████████░░░░░░░░░░░░░░░░░   31.84 % 
 
 💻 Operating System: 
-Mac                      1 hr 33 mins        █████████████████████████   100.00 % 
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (81.15%)
+⏱ AI Coding Time: 19 mins (91.13%)
 
-✍️ 74 lines written by AI, 40 lines written by hand (64.91% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 5,006,142 Input Tokens, 72,699 Output Tokens
+🔤 4,028,900 Input Tokens, 17,955 Output Tokens
 
-💵 $55.04 Estimated AI Cost This Week
+💵 $41.19 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 43 AI Prompts
+🧠 4 AI Sessions, 24 AI Prompts
 
-GPT                      74 lines            █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.91% of written lines came from AI
-📚 Verbose Prompter — average 4,776 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 35.09% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 6,094 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/10/2026 12:37:05 UTC
+ Last Updated on 06/10/2026 19:56:34 UTC
 <!--END_SECTION:waka-->
