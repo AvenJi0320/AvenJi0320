@@ -66,39 +66,39 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 52 mins        █████████████████░░░░░░░░   69.10 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Less                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+TypeScript               1 hr 52 mins        ████████████████████░░░░░   79.79 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Less                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Mac                      2 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 51 mins (68.41%)
+⏱ AI Coding Time: 1 hr 31 mins (64.9%)
 
 ✍️ 960 lines written by AI, 34 lines written by hand (96.58% AI-written)
 
-🔤 4,818,261 Input Tokens, 126,278 Output Tokens
+🔤 789,361 Input Tokens, 108,323 Output Tokens
 
-💵 $51.45 Estimated AI Cost This Week
+💵 $13.05 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 51 AI Prompts
+🧠 3 AI Sessions, 27 AI Prompts
 
 GPT                      1,059 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.58% of written lines came from AI
-📚 Verbose Prompter — average 3,018 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 283 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 4.85% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/10/2026 17:29:55 UTC
+ Last Updated on 11/10/2026 21:22:38 UTC
 <!--END_SECTION:waka-->
