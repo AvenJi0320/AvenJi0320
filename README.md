@@ -66,38 +66,38 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.68 % 
-TypeScript               2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-Less                     2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-JSON                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Less                     2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+TypeScript               2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+JavaScript               2 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 
 💻 Operating System: 
-Mac                      12 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 23 mins (97.63%)
+⏱ AI Coding Time: 8 hrs 5 mins (97.01%)
 
-✍️ 3,195 lines written by AI, 6 lines written by hand (99.81% AI-written)
+✍️ 2,633 lines written by AI, 6 lines written by hand (99.77% AI-written)
 
-🔤 10,458,270 Input Tokens, 607,534 Output Tokens
+🔤 7,083,267 Input Tokens, 393,844 Output Tokens
 
-💵 $120.30 Estimated AI Cost This Week
+💵 $79.07 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 185 AI Prompts
+🧠 37 AI Sessions, 133 AI Prompts
 
-GPT                      2,537 lines         █████████████████████████   100.00 % 
+GPT                      1,992 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📚 Verbose Prompter — average 3,614 characters per prompt
+🤖 AI-Driven — 99.77% of written lines came from AI
+📄 Detailed Prompter — average 660 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.24% of changed lines were hand-edited
+🚀 High AI Trust — 0.3% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/10/2026 18:03:33 UTC
+ Last Updated on 29/10/2026 00:32:39 UTC
 <!--END_SECTION:waka-->
