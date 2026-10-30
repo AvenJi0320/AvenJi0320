@@ -66,39 +66,39 @@
 
 ```text
 💬 Programming Languages: 
-Less                     4 hrs 6 mins        █████████████░░░░░░░░░░░░   53.40 % 
-JSON                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Other                    55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-JavaScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Less                     2 hrs 49 mins       ████████████░░░░░░░░░░░░░   49.45 % 
+JSON                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Other                    47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+JavaScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 💻 Operating System: 
-Mac                      7 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs (91.16%)
+⏱ AI Coding Time: 5 hrs 5 mins (89.33%)
 
-✍️ 1,421 lines written by AI, 9 lines written by hand (99.37% AI-written)
+✍️ 1,410 lines written by AI, 3 lines written by hand (99.79% AI-written)
 
-🔤 7,605,517 Input Tokens, 352,924 Output Tokens
+🔤 3,665,623 Input Tokens, 323,773 Output Tokens
 
-💵 $106.15 Estimated AI Cost This Week
+💵 $106.02 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 154 AI Prompts
+🧠 45 AI Sessions, 128 AI Prompts
 
 GPT                      1,614 lines         ███████████████████████░░   91.39 % 
 Opus                     152 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.37% of written lines came from AI
-📝 Concise Prompter — average 434 characters per prompt
+🤖 AI-Driven — 99.79% of written lines came from AI
+📝 Concise Prompter — average 472 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 76.51% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 76.61% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/10/2026 17:53:16 UTC
+ Last Updated on 30/10/2026 21:52:33 UTC
 <!--END_SECTION:waka-->
