@@ -61,45 +61,20 @@
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-330%20hrs%2020%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-Markdown                 1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-Less                     1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Python                   42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Other                    2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+Markdown                 2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+TypeScript               1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Less                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Python                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
 
 💻 Operating System: 
-Mac                      6 hrs 57 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 2 mins (86.91%)
-
-✍️ 4,194 lines written by AI, 303 lines written by hand (93.26% AI-written)
-
-🔤 2,812,770 Input Tokens, 415,363 Output Tokens
-
-💵 $85.68 Estimated AI Cost This Week
-
-🧠 33 AI Sessions, 108 AI Prompts
-
-GPT                      4,157 lines         ████████████████████████░   95.48 % 
-Opus                     197 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 93.26% of written lines came from AI
-📝 Concise Prompter — average 423 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 58.45% of changed lines were hand-edited
+Mac                      10 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/11/2026 11:54:25 UTC
+ Last Updated on 05/11/2026 12:01:04 UTC
 <!--END_SECTION:waka-->
