@@ -50,13 +50,13 @@
 <h3 align="center">Coding Activity</h3>
 
 <div align="center">
-  <img src="https://wakatime.com/share/@AvenJi0320/40de82e3-b6ce-49f4-9d99-05a0efbae391.svg"/>
+  <img src="https://wakatime.com/share/@AvenJi0320/257a7e53-0b68-4205-9e56-b4c110cc1a1e.svg"/>
 </div>
 
 <h3>⌛ Wake Time 💻</h3>
 <p align="center">
   <a href="https://wakatime.com/@044d69d0-1253-4f60-96b6-5d19a0f9dde5">
-    <img src="https://wakatime.com/share/@AvenJi0320/257a7e53-0b68-4205-9e56-b4c110cc1a1e.svg" alt="wakatime"/>
+    <img src="https://wakatime.com/badge/user/044d69d0-1253-4f60-96b6-5d19a0f9dde5.svg" alt="wakatime"/>
   </a>
 </p>
 
